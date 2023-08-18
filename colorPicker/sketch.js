@@ -7,7 +7,7 @@ function setup() {
     createCanvas(400,200); 
       
     // Create a color-picker object  
-    colPic = createColorPicker("green"); 
+    colPic = createColorPicker("lightgreen"); 
 } 
   
 function draw() { 

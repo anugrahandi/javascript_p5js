@@ -22,7 +22,7 @@ function setup() {
   tiles.push(decagon, hexagon1, hexagon2, rhombus, pentagon);
 
   // Set the frame rate
-  frameRate(5);
+  frameRate(2);
 }
 
 function draw() {
